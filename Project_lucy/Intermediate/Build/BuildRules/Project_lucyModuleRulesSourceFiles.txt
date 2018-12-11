@@ -1,0 +1,3 @@
+C:\Users\heros\Desktop\Project_lucy\Source\Project_lucy\Project_lucy.Build.cs
+C:\Users\heros\Desktop\Project_lucy\Source\Project_lucy.Target.cs
+C:\Users\heros\Desktop\Project_lucy\Source\Project_lucyEditor.Target.cs

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Project_lucy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\heros\Desktop\Project_lucy\Intermediate\Build\Win64\UE4Editor\Development\Project_lucy\Project_lucy.cpp.obj"
+"C:\Users\heros\Desktop\Project_lucy\Intermediate\Build\Win64\UE4Editor\Development\Project_lucy\Project_lucyGameModeBase.cpp.obj"
+"C:\Users\heros\Desktop\Project_lucy\Intermediate\Build\Win64\UE4Editor\Development\Project_lucy\Project_lucy.init.gen.cpp.obj"
+"C:\Users\heros\Desktop\Project_lucy\Intermediate\Build\Win64\UE4Editor\Development\Project_lucy\Project_lucyGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Project_lucy\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\heros\Desktop\Project_lucy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Project_lucy.lib"
